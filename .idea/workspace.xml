@@ -4,11 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6ce6ead2-ed0c-4370-a363-58d4486f8a10" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/100_days_of_code.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/100_days_of_code.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="6ce6ead2-ed0c-4370-a363-58d4486f8a10" name="Changes" comment="fix errors">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/logial_operators_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/logial_operators_2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pomodoro_app/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/pomodoro_app/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -26,18 +23,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "maksimod"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;maksimod&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/maksimod/100_days_of_code.git",
-    "accountId": "e075eaf2-9371-4ce8-8bd6-8ec8cc902349"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/maksimod/100_days_of_code.git&quot;,
+    &quot;accountId&quot;: &quot;e075eaf2-9371-4ce8-8bd6-8ec8cc902349&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 0
 }</component>
@@ -80,6 +77,19 @@
       <option name="presentableId" value="Default" />
       <updated>1721142927485</updated>
     </task>
+    <task id="LOCAL-00001" summary="fix errors">
+      <option name="closed" value="true" />
+      <created>1721568298591</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1721568298591</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="fix errors" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix errors" />
   </component>
 </project>
