@@ -55,18 +55,21 @@ def start_timer():
     if reps % 8 == 0:
         count_down(long_break_sec)
         tittle_label.config(text="Break", fg=RED)
+        window.state(newstate='zoomed')
         window.attributes("-topmost", True)
         notification()
     elif reps % 2 == 0:
         count_down(short_break_sec)
         tittle_label.config(text="Break", fg=PINK)
+        window.state(newstate='zoomed')
         window.attributes("-topmost", True)
         notification()
     else:
         count_down(work_sec)
         tittle_label.config(text="Work", fg=GREEN)
         window.attributes("-topmost", False)
-        window.lower()
+        # window.lower()
+        window.state(newstate='iconic')
         notification()
 
 

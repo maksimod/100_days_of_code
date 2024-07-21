@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6ce6ead2-ed0c-4370-a363-58d4486f8a10" name="Changes" comment="fix errors">
+    <list default="true" id="6ce6ead2-ed0c-4370-a363-58d4486f8a10" name="Changes" comment="fix errors again again">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pomodoro_app/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/pomodoro_app/main.py" afterDir="false" />
     </list>
@@ -85,11 +85,29 @@
       <option name="project" value="LOCAL" />
       <updated>1721568298591</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="fix errors again">
+      <option name="closed" value="true" />
+      <created>1721568392851</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1721568392851</updated>
+    </task>
+    <task id="LOCAL-00003" summary="fix errors again again">
+      <option name="closed" value="true" />
+      <created>1721568474851</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1721568474851</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="fix errors" />
-    <option name="LAST_COMMIT_MESSAGE" value="fix errors" />
+    <MESSAGE value="fix errors again" />
+    <MESSAGE value="fix errors again again" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix errors again again" />
   </component>
 </project>
